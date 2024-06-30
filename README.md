@@ -1,2 +1,2 @@
-# data_is_magic.github.io
+Data Is Magic
 This repo is all about of Data Science projects and knowledge.
