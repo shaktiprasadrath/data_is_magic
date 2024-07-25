@@ -1,7 +1,10 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    background-color: #2d1e3e; /* Dark purple color */
+    color: #ffffff; /* Light text color for readability */
+    font-family: Arial, sans-serif; /* Optional: Setting font family */
 }
+
 
 header, footer {
     background-color: #f8f9fa;
